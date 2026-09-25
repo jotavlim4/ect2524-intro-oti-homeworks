@@ -8,7 +8,7 @@ base = Path(__file__).resolve().parent.parent
 
 SOLVER = "highs"
 INSTANCES = ["berlin52.tsp", "ch150.tsp", "kroA100.tsp", "kroA200.tsp"]
-MODELS = ["tsp_mtz.mod"]
+MODELS = ["tsp_mtz.mod"] # tirei o outro modelo para poder executar as demais instânicas
 
 #secolher uma única instância
 print("choice a instância:")
