@@ -7,4 +7,4 @@
 | ch150     | 150           | MCF        | HiGHS     | ... | ... | ... | ... | Impraticável |
 | ch150     | 150           | MTZ        | HiGHS     | 6178 | Sem Solução Inteira Viável | Infinito | 1800.53 | Limited |
 | kroA200   | 200           | MCF        | HiGHS     | ... | ... | ... | ... | Impraticável |
-| kroA200   | 200           | MTZ        | HiGHS     | ... | ... | ... | ... | ... |
+| kroA200   | 200           | MTZ        | HiGHS     | 27133 | Sem Solução Inteira Viável | Infinito | 1727.84 | Limited |
